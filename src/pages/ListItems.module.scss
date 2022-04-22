@@ -27,10 +27,16 @@
 }
 
 .heading {
-  margin-top: 7rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 .getStartedButton {
   font-size: 1.2rem;
   margin-top: 1rem;
+}
+
+.grid {
+  --ion-grid-columns: 2;
+  --ion-grid-padding: 20px;
 }
